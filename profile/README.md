@@ -10,11 +10,15 @@ More than a project output, the repository is intended as a basis for **collabor
 By making key results openly available, it aims to **encourage reuse, further development and connection with the wider community** working on energy flexibility, digitalisation and the clean energy transition.
 
 ## Repositories
-*Coming soon*
+- [TES-LEC-operation](https://github.com/Hystore/TES-LEC-operation): **centralized optimization** of a multi-peer energy community with multiple energy vectors such as electricity, heat, cold, gas and biomass.
+- [TES-sizing](https://github.com/Hystore/TES-sizing): **centralized, single-node energy system optimization** workflow built with Pyomo.
+ 
+
+*More, Coming soon*
 
 ## Links
 
-- 🌐[HYSTORE webpage](https://github.com/Hystore/.github/blob/main/hystore_logo.png?raw=true)
+- 🌐[HYSTORE webpage](https://www.hystore-project.eu/)
 - 🔗[LinkedIn](https://www.linkedin.com/company/hystore-project/)
 - 👥[Twitter / X](https://twitter.com/HystoreProject)
 
